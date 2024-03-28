@@ -1,5 +1,7 @@
 ### Salut Lecteur! Je suis Naman Kumar Jaiswal
 
+<p align="center"><img src="https://64.media.tumblr.com/539ec51df37540c0ac8efba6233af65b/8cdbeace3f37822a-6f/s400x600/f9a9e42e5186a7011ea52a73f2de2cc7dddfc518.gifv" width="400" height="300" /></p>
+
 - I am a Second Year Computer Science Student at [Indian Institute of Technology, Kanpur](https://cse.iitk.ac.in/).
 - I am a Student of avid and diverse interest in various disciplines refrained from the sacrifices of Ageing.
 - The prominent of my interest involve fascination about Literature, Mathematical Complexities, Economics and History.
@@ -8,7 +10,6 @@
 - I love to find patterns and make conclusions even when their might not exist one.
 - I know Quantum Computing, Algorithms, Web Development, Cryptography, Data Science and Computer Graphics and always willing to learn more.
 - I am learning German as of now with elementary proficiency in French.
-- Fun fact: Great Listener who won't speak untill I start and won't stop
 - A man of strong opinions and stronger silence.
 
 
